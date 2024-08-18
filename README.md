@@ -18,7 +18,7 @@ This project demonstrates how to perform face detection in images using OpenCV's
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/face-detection-opencv.git
+    git clone https://https://github.com/shruti18-s/Face_Detection_HaarCascade.git
     cd face-detection-opencv
     ```
 
